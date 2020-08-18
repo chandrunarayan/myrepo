@@ -1,2 +1,2 @@
-# Chandru's test repository SlateTheme
+# Chandru's test repository HackerTheme
 [chandru's page](chandru.md)
