@@ -1,7 +1,7 @@
 [_Bush School CPJava Fall Semester 2020_](https://chandrunarayan.github.io/cpjava/)
 
 # Unit 1 - Exercises
-
+<iframe src="https://trinket.io/embed/java/568a63bc9d" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 ## Trinket Exercises
 * [Java Intro](JavaBasics.html)
 
